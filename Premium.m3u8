@@ -140,12 +140,29 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://live3.procdnlive.com/livecdn/channel82.flv?auth_key=3000001781306595-0-0-cfdf7337f4b57a01ddfb1dff86ff7865
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/2026-fifa-world-cup-logo.jpg" group-title="🏐 VOLLY", 17:00 Amerika w vs Italia w 19/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/2026-fifa-world-cup-logo.jpg" group-title="🏐 VOLLY", 20:00 Prancis w vs China w 19/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/2026-fifa-world-cup-logo.jpg" group-title="🏐 VOLLY", 20:00 Prancis w vs China w 19/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS 2
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=01134b91dd5e0d1d3d140ce344091920&wsABSTime=1781445368
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=49f7fa8781b0109d0853b56d46e24324&wsABSTime=1781915770
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/2026-fifa-world-cup-logo.jpg" group-title="🏐 VOLLY", 20:30 Bulgaria w vs Kanada w 19/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=3d1d9cda1044899527178f4e3f22e5e9&wsABSTime=1781915837
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/2026-fifa-world-cup-logo.jpg" group-title="🏐 VOLLY", 23:30 Belgia w vs Jerman w 19/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=f874dbe027c74249e9ded60e843b9a84&wsABSTime=1781915881
 
 
 
@@ -3671,7 +3688,7 @@ https://flv.intechmedia.net/live/ch81.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="Jowo Channel", #INFO
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="Channel Jowo", #INFO
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
 
 
@@ -3702,7 +3719,7 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Cakra-semarang-tv.png/revision/latest/scale-to-width-down/250?cb=20201011065922", SEMARANG TV
 https://tvku.tv/hlsstream/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jawa" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png", DHOHO TV KEDIRI
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png", DHOHO TV KEDIRI
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://play-lh.googleusercontent.com/HCmmW8XBLMjW9n8ZXjqyMdMs5iWXA7nsOkkQZBQKgvqOcq4CyockLqR3WVin2_Sw7jo=w526-h296-rw", SAKTI TV MADIUN
