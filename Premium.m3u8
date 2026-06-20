@@ -296,6 +296,9 @@ http://opplextv.cyou:8080/nasir6160/nasir/352934
 https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001781867049-0-0-76c5150a6866a0033fd6e204383931e0
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/SXYXvvVD/brasilvshaiti.png" group-title="🏆 WORLD CUP 2026", 07:30 Brazil vs Haiti 20/06/2026
+https://main.neweria.site/uooos1_720/index.m3u8
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/SXYXvvVD/brasilvshaiti.png" group-title="🏆 WORLD CUP 2026", 07:30 Brazil vs Haiti 20/06/2026 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
