@@ -110,11 +110,11 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bwfbadminton.com/wp-content/uploads/2014/05/BWF_logo_holding_device.jpg" group-title="🏸 BADMINTON", Macau open 2026 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bwfbadminton.com/wp-content/uploads/2014/05/BWF_logo_holding_device.jpg" group-title="🏸 BADMINTON", Macau open 2026
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=f2e5c0f4ad861f776da0baa2e12c1543&wsABSTime=1781904307
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=caf30f5feb39b0326eec1aaa10273b58&wsABSTime=1782042804
 
 
 
@@ -132,17 +132,78 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 19:30 Korea Selatan vs Thailand W 21/06/26 - AVC CHAMPIONS LEAGUE
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 10:30 Australia vs Chinese Taipei 21/06/26 - AVC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=e63581d25b8bec8c054a3c86e2cc4b1b&wsABSTime=1782002251
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=0fdb03ef749636b9e60f9bce5f1904ea&wsABSTime=1782042881
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNYpxy6Isggabf5dynLLnVBMlOMhW5i_5umujI3nj0Scxrbj-xLvRUeNE&s=10" group-title="🏐 VOLLY", 23:30 Turkey w vs Germany w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 11:00 Serbia w vs USA w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=7177fb2dc436d0a8d5186a673d862f06&wsABSTime=1782002161
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=387ef24ca47e5a1e0d502280bd47267f&wsABSTime=1782042939
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 13:00 Bulgaria w vs Ukraine w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=d7cefb9a2dc90515faa27a64becc6935&wsABSTime=1782043089
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 13:30 New Zealand vs Bahrain 21/06/26 - AVC CHAMPIONS LEAGUE
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=5f0b3145c85c8fb2563e7a0a62c7d0fd&wsABSTime=1782043141
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 15:00 Czechia w vs Dominican Republic w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=42e4529b891c681fdbb977c7c9539efb&wsABSTime=1782043216
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 16:30 Belgium w vs France w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=2c593e8c36add08b501861427a2711cb&wsABSTime=1782043318
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 16:30 Qatar vs Thailand 21/06/26 - AVC CHAMPIONS LEAGUE
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=58a54173276af1bd58ba7cc985b222f1&wsABSTime=1782043376
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 17:00 Canada w vs Poland w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=343c7dbf8ca4eab214197617a51629df&wsABSTime=1782043438
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 19:00 Japan w vs Italy w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 19:00 Japan w vs Italy w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS 2
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=7dc3d4a6f76de67c0558d8c8c083766d&wsABSTime=1782043493
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 20:00 Germany w vs Brazil w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=4c09d8988304a446fba7f1da4882c4df&wsABSTime=1782043544
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 23:30 Turkiye w vs China w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=64918398bce3420faf73a934a067c507&wsABSTime=1782043602
 
 
 
