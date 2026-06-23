@@ -1344,14 +1344,36 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/ind
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇯🇵 | JEPANG" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gaki_No_Tsukai_Logo.jpg", Gaki no Tsukai
+https://list.iptvcat.com/my_list/s/0df41e9fc06e7d9a6f19b5dc988b1491.m3u8
 
 
 
 
 
 
+========= INDIA =========
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png", #INFO
+https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png", Republic TV
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/f12a937b-1d7a-473e-ace1-cf53818bb5a5/ddcb3254-4a61-4f2d-a80c-a42764272257/1.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png", India Today
+https://aajtaklive.vgcdn.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/24a6099c-c760-4c48-924a-87957ca5869c/7407c9c4-8eb0-4fcd-b629-a0bd9398be34/4.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png", NDTV 24X7
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-252389/35c57d71-75ce-4b6c-b79e-898b98a79e46/3.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png", Urban Action
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/67e55a1a-e83a-40ab-b82d-aad317c7242f/1.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png", Bangbang TV
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/fc3edf93-ba16-4aed-9e90-f3844ce0552d/1.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="🇮🇳 | INDIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/twazqd.png", Encore https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/390efe7e-4a1a-4f9f-8266-b4d90ab7121a/b55372e5-816d-44a0-8950-985d177dd865/1.m3u8
 
 
 
