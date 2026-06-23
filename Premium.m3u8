@@ -153,6 +153,12 @@ http://opplextv.cyou:8080/nasir6160/nasir/350997
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=4c0595cfb5a7256bd3c5d4ef972a868a&wsABSTime=1782217580
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 22:30 Indonesia vs Thailand 23/06/26 - AVC CHAMPIONS LEAGUE 2
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=87b286307f61760400026c0dc7da8242&wsABSTime=1782256312
+
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 11:00 Serbia w vs USA w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
@@ -174,144 +180,79 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 2
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 2
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 3
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 4
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 5
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 7 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://69.30.245.50/live/cctv5.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 8 FHD
-http://opplextv.cyou:8080/nasir6160/nasir/352930
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 9 FHD
-http://opplextv.cyou:8080/nasir6160/nasir/352934
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 10
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782114513-0-0-55458e6e11eff2b4f449fff88e021f37
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 2
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 4
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 5
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 5
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 7 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://69.30.245.50/live/cctv5.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 8 FHD
-http://opplextv.cyou:8080/nasir6160/nasir/352934
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 04:00 France vs Iraq 23/06/2026 9
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001782114929-0-0-cf2f0fb37bd846c7947b526fc5287fc4
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 2
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 4
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 5 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 6 FHD
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 6 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://69.30.245.50/live/cctv5.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 7 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 8 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352930
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 9 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352931
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 10 FHD
 http://opplextv.cyou:8080/nasir6160/nasir/352934
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 07:00 Norway vs Senegal 23/06/2026 8
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Portugal vs Uzbekistan 24/06/2026 11
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782117163-0-0-a43dafc77b8986775a0e63896d29ec24
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782212144-0-0-20fb5a9b786d69451b614ca085c5908c
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 2
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 2
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 3
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 4
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -320,27 +261,119 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 5
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 6
 https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 6
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 8 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 9 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:00 England vs Ghana 24/06/2026 10
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel16.flv?auth_key=3000001782212440-0-0-e1fa67a18e51cac69827eb6813d39afb
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 2
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 5
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 6
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 8 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 06:00 Panama vs Croatia 24/06/2026 9
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782212696-0-0-cc45cb06a44abacb6406b40b81f5219d
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 2
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 5
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 7 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://69.30.245.50/live/cctv5.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 8 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 8 FHD
 http://opplextv.cyou:8080/nasir6160/nasir/352934
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 10:00 Jordan vs Algeria 23/06/2026 9
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 09:00 Colombia vs Congo DR 24/06/2026 9
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001782117588-0-0-13d159746f17cee57cd6c0c240625554
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782212962-0-0-5ed3ea03a286796692f9426b8e134ae7
+
 
 
 
