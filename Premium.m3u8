@@ -54,29 +54,6 @@ http://49.0.64.96:8007/HiSports
 
 ======== LIVE EVENT ========
 
-======== LIVE EVENT 22/06/26 =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 22/06/26", APPLE TV PREMIUM
-https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 22/06/26", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 22/06/26", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/250px-Flag_of_FIFA.svg.png" group-title="EVENT 22/06/26", 20:00 AIK Solna dan Kalmar FF - Friendly Match
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782106879-0-0-e3f9424e8d0ec55f6ced4cf6e42e3cfd
-
-
-
-
-
-
 ======== LIVE EVENT 23/06/26 =========
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 23/06/26", APPLE TV PREMIUM
@@ -86,6 +63,29 @@ https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 23/06/26", TRAKTIR KOPI
+https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/250px-Flag_of_FIFA.svg.png" group-title="EVENT 23/06/26", 21:00 Humenne vs Michalovce - Friendly Match
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782174545-0-0-faf99961f0e7b6854eb4858230483f08
+
+
+
+
+
+
+======== LIVE EVENT 24/06/26 =========
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 24/06/26", APPLE TV PREMIUM
+https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 24/06/26", #INFO
+https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 24/06/26", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
@@ -114,7 +114,7 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=caf30f5feb39b0326eec1aaa10273b58&wsABSTime=1782042804
+#https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=caf30f5feb39b0326eec1aaa10273b58&wsABSTime=1782042804
 
 
 
@@ -132,29 +132,27 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 13:30 Australia vs Kazakhstan 22/06/26 - AVC CHAMPIONS LEAGUE
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 13:30 Australia vs New Zealand 23/06/26 - AVC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=6b47e0098201a613f44fa3738d5e9de0&wsABSTime=1782149756
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=4bd29e6eb26e6ecfbb99232f8895efe2&wsABSTime=1782217479
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 16:30 Oman vs Thailand 22/06/26 - AVC CHAMPIONS LEAGUE
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 16:30 Chinese Taipei vs Kazhakstan 23/06/26 - AVC CHAMPIONS LEAGUE
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=9b776a92f40f526289c463771a8a7185&wsABSTime=1782149799
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=a143f46ecec45a21fc24a427a8082fc1&wsABSTime=1782217551
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 19:30 Qatar vs Indonesia 22/06/26 - AVC CHAMPIONS LEAGUE
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=6030c2ce287f2a66a4b06af1e95e1435&wsABSTime=1782149854
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 19:30 Indonesia vs Thailand 23/06/26 - AVC CHAMPIONS LEAGUE 1
+http://opplextv.cyou:8080/nasir6160/nasir/350997
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 22:30 India vs Chinese Taipei 22/06/26 - AVC CHAMPIONS LEAGUE
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVgA-wYHGi0djkQiOM9NrZlnaG1oJbSKSCQ&s" group-title="🏐 VOLLY", 19:30 Indonesia vs Thailand 23/06/26 - AVC CHAMPIONS LEAGUE 2
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=ba20790e9cec70c2d96f8dd0c3bd5191&wsABSTime=1782149903
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=4c0595cfb5a7256bd3c5d4ef972a868a&wsABSTime=1782217580
+
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30SJH5swypNvnTWjrlkvEa9g9LV76SQkYwvGkERaXIQ&s=10" group-title="🏐 VOLLY", 11:00 Serbia w vs USA w 21/06/26 - VOLLEYBALL NATIONS LEAGUE WOMENS
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
@@ -175,12 +173,6 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🏆 WORLD CUP 2026", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://lola30es.mpipzni2naturally32kistomach.ru/
-#EXTVLCOPT:http-origin=https://lola30es.mpipzni2naturally32kistomach.ru
-https://fhlsport301.tbaa149f8pqlisten.ru/token-dhR8mbeSIPCGuTcoxvY6kD2AlJuDgirjP3apwaFJRWGks%2BWdHUFaCZQtqxdWW00GQn3BwzNokf51e5ROUxMK5Z5kSEi0PYE%3Da/cfall/s2001/v3b/67184os1nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_736351/index.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Argentina vs Austria 23/06/2026 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3637,23 +3629,32 @@ https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbxj0uzRqcndTviL-h_ADldRueK9ImM3-xQ&s", DMTV MALANG
 https://e.siar.us/live/dmtv.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://play-lh.googleusercontent.com/HCmmW8XBLMjW9n8ZXjqyMdMs5iWXA7nsOkkQZBQKgvqOcq4CyockLqR3WVin2_Sw7jo=w526-h296-rw", SAKTI TV MADIUN
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5wlMsmH9CtJmdR6j2BI20PMIc4E769sv5ksZ-ta9KA&s=10", Lentera TV
+https://stream.innobi.id/hls/lenteratv.m3u8
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://yt3.googleusercontent.com/SXO69PP3UCh2OmHydnT7hgEhSd0PuwhBBRdk59462iK2iichOrFErh170Yf70VVg2uFWgDiNQw=s900-c-k-c0x00ffffff-no-rj", SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Cakra-semarang-tv.png/revision/latest/scale-to-width-down/250?cb=20201011065922", SEMARANG TV
 https://tvku.tv/hlsstream/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://i.ytimg.com/vi/xwDYXEYZ7vE/maxresdefault.jpg", USMTV
+https://derek-frog-cartoon-run.trycloudflare.com/hls/siaran.m3u8
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png", DHOHO TV KEDIRI
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://play-lh.googleusercontent.com/HCmmW8XBLMjW9n8ZXjqyMdMs5iWXA7nsOkkQZBQKgvqOcq4CyockLqR3WVin2_Sw7jo=w526-h296-rw", SAKTI TV MADIUN
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://img.mbizmarket.co.id/products/thumbs/343x343/2022/08/26/05ec6ce3f5dd7ac9ce683463c276a672.jpg", MADU TV TULUNGAGUNG
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAAI TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQpZys0vShZK9bXixmdoMVCM0QO4bqAlGBA&s" group-title="Channel Jowo", JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1342644305.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://www.nettv.live/uploads/19/1-1ZZ521313K04.jpg" group-title="Channel Jowo", Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="Channel Jowo" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png", Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
