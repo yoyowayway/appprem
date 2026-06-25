@@ -207,13 +207,211 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 02:00 Switzerland vs Canada 25/06/2026 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-#https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 6 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:9d89b7bf34c685449ed431f1cd8f5104cd8a5618188aef37879bf64e42038dd1&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Curaçao vs Côte d'Ivoire 26/06/2026 7
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001782386837-0-0-a6aacc57e7c5ea0149f5f48a5478d09d
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c51eb8ac36b7c9a63de85b4b49cb4d103d4304738943d66e294d0f16094e23ea&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Ecuador vs Germany 26/06/2026 1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c51eb8ac36b7c9a63de85b4b49cb4d103d4304738943d66e294d0f16094e23ea&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Ecuador vs Germany 26/06/2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c51eb8ac36b7c9a63de85b4b49cb4d103d4304738943d66e294d0f16094e23ea&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Ecuador vs Germany 26/06/2026 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c51eb8ac36b7c9a63de85b4b49cb4d103d4304738943d66e294d0f16094e23ea&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Ecuador vs Germany 26/06/2026 4 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352930
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c51eb8ac36b7c9a63de85b4b49cb4d103d4304738943d66e294d0f16094e23ea&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Ecuador vs Germany 26/06/2026 5
+https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c51eb8ac36b7c9a63de85b4b49cb4d103d4304738943d66e294d0f16094e23ea&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 03:00 Ecuador vs Germany 26/06/2026 6
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782387381-0-0-28cb05a83dcd83fa66bdd30f08d73530
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:0a0a0f2ef7c90c38e97f8a048ae780f8afdddb46499dee30c949d63944f6eaba&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Tunisia vs Netherlands 26/06/2026 1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:0a0a0f2ef7c90c38e97f8a048ae780f8afdddb46499dee30c949d63944f6eaba&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Tunisia vs Netherlands 26/06/2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:0a0a0f2ef7c90c38e97f8a048ae780f8afdddb46499dee30c949d63944f6eaba&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Tunisia vs Netherlands 26/06/2026 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:0a0a0f2ef7c90c38e97f8a048ae780f8afdddb46499dee30c949d63944f6eaba&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Tunisia vs Netherlands 26/06/2026 4 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352930
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:0a0a0f2ef7c90c38e97f8a048ae780f8afdddb46499dee30c949d63944f6eaba&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Tunisia vs Netherlands 26/06/2026 5
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel6.flv?auth_key=3000001782387663-0-0-990f74216e6810837d8cc48e0a92199e
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 5 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 6 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:c0362e764dd50ecca6056b185faf4e70d0f43adffe5396f532b8b498ac27178c&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 06:00 Japan vs Sweden 26/06/2026 7
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782387889-0-0-9e573c9a49de5994c760b6a917767d2e
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/FOX_SPORTS_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 6 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352930
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:dad2f683f5c4e871c9c80dbc06fa5e2e56f5b12881e3d582e32e71d22f5afbc5&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Paraguay vs Australia 26/06/2026 7
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel19.flv?auth_key=3000001782388106-0-0-eef815dac1a7cdd2457e6e0941ae9e0a
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:a228ee8d6da002e7ed435b0a63c1c759f73b8203aedeb57957d3269adacea590&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Turkey vs USA 26/06/2026 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+http://103.148.44.38:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:a228ee8d6da002e7ed435b0a63c1c759f73b8203aedeb57957d3269adacea590&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Turkey vs USA 26/06/2026 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:a228ee8d6da002e7ed435b0a63c1c759f73b8203aedeb57957d3269adacea590&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Turkey vs USA 26/06/2026 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:a228ee8d6da002e7ed435b0a63c1c759f73b8203aedeb57957d3269adacea590&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Turkey vs USA 26/06/2026 4 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:a228ee8d6da002e7ed435b0a63c1c759f73b8203aedeb57957d3269adacea590&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 09:00 Turkey vs USA 26/06/2026 5
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782388309-0-0-2a4e3bd43d709772d23e742544d718b4
 
 
 
