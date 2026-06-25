@@ -54,28 +54,6 @@ http://49.0.64.96:8007/HiSports
 
 ======== LIVE EVENT ========
 
-======== LIVE EVENT 25/06/26 =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 25/06/26", APPLE TV PREMIUM
-https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 25/06/26", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 25/06/26", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/250px-Flag_of_FIFA.svg.png" group-title="EVENT 25/06/26", 21:00 Humenne vs Michalovce - Friendly Match
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782174545-0-0-faf99961f0e7b6854eb4858230483f08
-
-
-
-
-
 
 ======== LIVE EVENT 26/06/26 =========
 
@@ -90,7 +68,23 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 
 
 
+======== LIVE EVENT 27/06/26 =========
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 27/06/26", APPLE TV PREMIUM
+https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 27/06/26", #INFO
+https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 27/06/26", TRAKTIR KOPI
+https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/250px-Flag_of_FIFA.svg.png" group-title="EVENT 25/06/26", 21:00 Humenne vs Michalovce - Friendly Match
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782174545-0-0-faf99961f0e7b6854eb4858230483f08
 
 
 
@@ -110,11 +104,30 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bwfbadminton.com/wp-content/uploads/2014/05/BWF_logo_holding_device.jpg" group-title="🏸 BADMINTON", Macau open 2026
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_L3c-3jygz6NSG3Pzfmmm3G3AGkBaFUxTUeERtuRlZYW1ywtyJBokHrE&s=10" group-title="🏸 BADMINTON", 02:00 US open 2026 1
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=caf30f5feb39b0326eec1aaa10273b58&wsABSTime=1782042804
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=1f38932e4c774bf0cef36832f91f89e6&wsABSTime=1782425538
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_L3c-3jygz6NSG3Pzfmmm3G3AGkBaFUxTUeERtuRlZYW1ywtyJBokHrE&s=10" group-title="🏸 BADMINTON", 02:00 US open 2026 2
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel51.flv?wsSecret=e4cae908c3726f1f82005092d318304c&wsABSTime=1782425568
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_L3c-3jygz6NSG3Pzfmmm3G3AGkBaFUxTUeERtuRlZYW1ywtyJBokHrE&s=10" group-title="🏸 BADMINTON", 02:00 US open 2026 3
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel52.flv?wsSecret=f3857e46a7461a5aef4e0f04bd4f0cd1&wsABSTime=1782425616
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_L3c-3jygz6NSG3Pzfmmm3G3AGkBaFUxTUeERtuRlZYW1ywtyJBokHrE&s=10" group-title="🏸 BADMINTON", 02:00 US open 2026 4
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel53.flv?wsSecret=b5c4e8e468cc6c839038b4443af3f738&wsABSTime=1782425650
+
 
 
 
