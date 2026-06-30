@@ -53,15 +53,30 @@ http://49.0.64.96:8007/HiSports
 
 
 ======== LIVE EVENT ========
-======== LIVE EVENT 29/06/26 =========
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 29/06/26", APPLE TV PREMIUM
+
+======== LIVE EVENT 01/07/26 =========
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 01/07/26", APPLE TV PREMIUM
 https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 29/06/26", #INFO
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 01/07/26", #INFO
 https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 29/06/26", TRAKTIR KOPI
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 01/07/26", TRAKTIR KOPI
+https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
+
+
+
+======== LIVE EVENT 02/07/26 =========
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 02/07/26", APPLE TV PREMIUM
+https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 02/07/26", #INFO
+https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 02/07/26", TRAKTIR KOPI
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
@@ -70,20 +85,6 @@ https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_202507231830
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://live3.procdnlive.com/livecdn/channel23.flv?auth_key=3000001782174545-0-0-faf99961f0e7b6854eb4858230483f08
-
-
-
-======== LIVE EVENT 30/06/26 =========
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 30/06/26", APPLE TV PREMIUM
-https://snazzy-lily-b578fe.netlify.app/applepremium.mp4
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 30/06/26", #INFO
-https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT 30/06/26", TRAKTIR KOPI
-https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
-
 
 
 
@@ -164,161 +165,207 @@ https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=of
 https://dl.dropboxusercontent.com/scl/fi/fwh3ea7esxf14gkmmrcwu/lv_0_20250723183017.mp4?rlkey=0bkqehfly8mqsi2zxzckfojl3&st=rssjfw21
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 5
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 6 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://69.30.245.50/live/cctv5.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 7 FHD
-http://opplextv.cyou:8080/nasir6160/nasir/352934
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 8
-#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
-#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782692841-0-0-ec7e5072400804251a36bcaf8839760e
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 00:00 Brazil vs Japan 30/06/2026 - (Round 32 - World Cup 2026) 9
-https://live05.paznhl.app/live/78905744.m3u8
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 2
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 4
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 5
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 5
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 6
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax4.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 7
-https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 8
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 9 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://69.30.245.50/live/cctv5.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 10 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 8 FHD
 http://opplextv.cyou:8080/nasir6160/nasir/352934
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 11
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 9
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782693178-0-0-78f5aee9811151b7b8b599b69210fcee
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782826754-0-0-bfad5cf73b52b13d06b17776225131f2
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 03:30 Germany vs Paraguay 30/06/2026 - (Round 32 - World Cup 2026) 12
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:22d9306846b990eb0dff2b96a479e15032dd7fcbf7b2dd4fa80f34880e3ec8fd&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 00:00 Côte d'Ivoire vs Norway 01/07/2026 - (Round 32 - World Cup 2026) 10
 https://live05.paznhl.app/live/78905744.m3u8
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 1
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 1
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 2
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 3
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 4
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 5
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 6
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 6
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 7 FHD
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 8 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 7 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://69.30.245.50/live/cctv5.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 9 FHD
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 8 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352930
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 9 FHD
 http://opplextv.cyou:8080/nasir6160/nasir/352934
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 10
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 10
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel15.flv?auth_key=3000001782693494-0-0-31e479f917cc2c52da44b9c9c2b57a96
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782827167-0-0-837f497ac667a81ce44ff11553660b9b
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1294/728/2026-fifa-world-cup-logo.jpg?ve=1&tl=1" group-title="🏆 WORLD CUP 2026", 08:00 Netherlands vs Morocco 30/06/2026 - (Round 32 - World Cup 2026) 11
-https://live05.paznhl.app/live/75748097.m3u8
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https://kingfisher.rts.ch/res/img/cdns3/kf/urn:kf-image:3d8f20ee1b431fcb7e519439f88102470d783274f0812e9122782472e3ac8970&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 04:00 France vs Sweden 01/07/2026 - (Round 32 - World Cup 2026) 11
+https://live05.paznhl.app/live/78905744.m3u8
 
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 6
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 8 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 9
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel5.flv?auth_key=3000001782827507-0-0-7ae013053450bfaf52caa6bf779a89e1
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A55885599cf8807c1bf8ff49610f4a0da829a2ef9f713330bbeaf80b3cba90680&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 08:00 Mexico vs Ecuador 01/07/2026 - (Round 32 - World Cup 2026) 10
+https://live05.paznhl.app/live/16226575.m3u8
+
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 1
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 6
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 7 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://69.30.245.50/live/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 8 FHD
+http://opplextv.cyou:8080/nasir6160/nasir/352934
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 9
+#EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782827784-0-0-25e98e0c6248cbcda9459cf9d43fb329
+
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 10
+https://live05.paznhl.app/live/78905744.m3u8
 
 
 
