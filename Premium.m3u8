@@ -356,7 +356,10 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/bnmax3.m3u8
 http://69.30.245.50/live/cctv5.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 8 FHD
-http://opplextv.cyou:8080/nasir6160/nasir/352934
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://kilat-live.com/
+#EXTVLCOPT:http-origin=https://kilat-live.com
+https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_PT_SPORT_TV_5/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 9
 #EXTVLCOPT:http-origin=https://xlz.buzzscorelinez.com
@@ -950,9 +953,7 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="DAERAH", JOWO CHANNEL DNS
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-flashcon-digdayahd-1.dens.tv/h/h77/S4/mnf.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="SindoNews.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfSbcEjhFqMDW6UVbRDSe3rV-2EwNMPCKQpAZ9ygCX8_EV2rLgAfguA8v6OuIKqJ1PWfg&usqp=CAU" group-title="DAERAH", SINDONEWS v+
 https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
@@ -2685,6 +2686,9 @@ https://m.vidio.com/videos/8393411/common_tokenized_playlist.m3u8
 https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
 
 
+#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH34APlk3lHgHhGErqtifOFiJlRragtT7Eww&s" group-title="🕌 RELIGI", TV Sunnah
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://linktr.ee/og/image/ALBAHJAH.TV.jpg" group-title="🕌 RELIGI", AL BAHJAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://202.150.161.117:8000/play/AlBahjahTV
@@ -3181,9 +3185,6 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Jak FM 101.0
 https://wz.mari.co.id:1936/web_jakfm/jakfm/chunklist_w1581914997.m3u8
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", RRI PRO 1 Cirebon 94.8 FM
-https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro1.mp3
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", RRI PRO 2 Cirebon 97.5 FM
 https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro2.mp3
 
@@ -3191,16 +3192,16 @@ https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro2.mp3
 https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", RDI 97.1 FM
-https://stream.roov.id:8062/stream?type=http&nocache=164
+http://202.147.199.99:8000/;
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Kita Cirebon
-https://sunnah.radio.yufid.com/;stream.mp3
+https://broadcast.yufid.com/listen/radio_sunnah_cirebon/kitafm
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Pilaradio Cirebon
 http://175.103.49.99:8000/;
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", RADIO-QU Cirebon
-https://ssg.streamingmurah.com:8034/stream
+https://radioqu.albahjah.or.id/stream
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio iniislam.net
 http://radioonline.iniislam.net:9978/;
@@ -3220,17 +3221,14 @@ https://i.klikhost.com/8840/;
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", AL IMAN
 https://radioislamindonesia.com/aliman.mp3?_=1
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Kajian Islam
-https://stream.zeno.fm/ge2ekgd7f18uv
-
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Rodja
 https://radioislamindonesia.com/rodja.mp3?_=2
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Ini Islam
 http://radioonline.iniislam.net:9978/;
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Murottal
-https://stream.zeno.fm/z3f462xp1uhvv
+#EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Mualaf Bandung
+https://a.alhastream.com:1060/radio
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-title="📺 RADIO" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Suara AL-Iman 846 AM
 https://stream.zeno.fm/vc80vpssu98uv
@@ -3661,9 +3659,7 @@ https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_202506162008
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="Channel Jowo", JOWO CHANNEL DNS
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://op-flashcon-digdayahd-1.dens.tv/h/h77/S4/mnf.m3u8
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 #EXTINF:-1 tvg-id="Hanacaraka TV.id" group-logo="https://i.ibb.co.com/bdPhQsj/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWXuUgLoQV_SanhK7W3rgZnUJfS-RdMtl8g&s" group-title="Channel Jowo", HANACARAKA V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
