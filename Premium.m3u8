@@ -319,14 +319,13 @@ https://live05.paznhl.app/live/16226575.m3u8
 
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 1
-http://103.148.44.38:8000/play/a05u/index.m3u8
+https://play.gzxdby.com/live/283334344568_4547627228_1080p.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fxs.m3u8
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://il.srgssr.ch/images/?imageUrl=https%3A%2F%2Fkingfisher.rts.ch%2Fres%2Fimg%2Fcdns3%2Fkf%2Furn%3Akf-image%3A4e47870ada9565802cdd8126235fbf2423c583723f7f7419a142944d59da0ced&format=jpg&width=1920" group-title="🏆 WORLD CUP 2026", 23:00 England vs Congo DR 01/07/2026 - (Round 32 - World Cup 2026) 3
 #KODIPROP:inputstream=inputstream.adaptive
